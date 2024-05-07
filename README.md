@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mikhail.
 - 👀 I’m interested in learn something new.
 - 🌱 I’m currently learning programming language python.
-- 📫 How to reach me Tg:@mjorny
+- 📫 How to reach me: Tg:@mjorny
 - 😄 Location: Vladivostok; Russian.
 
 
